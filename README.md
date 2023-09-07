@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align='center'>Hi! 👋 I'm Rickard</h1>
+<h1 align='center'>Hello, Github! 👋 I'm Rickard</h1>
 
-<p align='center'>I'm a soon to be engineer currently pursuing a Masters degree in Computer Science specialized in Machine Learning and AI. 
-Here you can find final solutions to laborations in various university courses, online courses and personal side projects. <br>Check out my repo's or connect with me on LinkedIn below!</p>
+<p align='center'>I am a finaly year student currently pursuing a master's degree in Computer Science specialized towards Machine Learning, AI and Data Science!
+ <br>Check out my repo's or connect with me on LinkedIn below!</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/rickardpeters/" target="_blank">
