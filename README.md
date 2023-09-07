@@ -35,10 +35,8 @@ Here you can find final solutions to laborations in various university courses, 
 <a href="https://reactjs.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <a href="https://nodejs.org/en/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 <a href="https://www.djangoproject.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a>
-<a href="https://fastapi.tiangolo.com/"><img width="40px" style="padding-right: 10px;" src="YOUR_IMAGE_URL_HERE" /></a>
+<a><img width=40px style='padding-right:10px;' src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original.svg" /></a>
 <a href="https://firebase.google.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
-<!-- <a href="https://www.docker.com"><img width=50px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a> -->
-<!-- <img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> -->
 <a href="https://www.mysql.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 <a href="https://git-scm.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 <a href="https://pytorch.org/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/></a>
