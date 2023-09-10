@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h1 align='center'>Hello, Github! 👋 I'm Rickard</h1>
 
 <p align='center'>I am a final year student currently pursuing a master's degree in Computer Science specialized towards Machine Learning, AI and Data Science!
- <br>Check out my repo's or connect with me on LinkedIn below!</p>
+ <br>Check out my repos or connect with me on LinkedIn below if you want to know more about me!</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/rickardpeters/" target="_blank">
