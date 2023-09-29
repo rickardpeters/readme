@@ -47,10 +47,6 @@ Here are some ideas to get you started:
 <a href="https://matlab.mathworks.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/></a>       
 </div>
 
-<h2 align='center'> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rickardpeters&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rickardpeters&theme=dark)
-
-
-</h2>
 #
